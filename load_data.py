@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 """
 Dataset of publication "Electrical impedance-based tissue classification for bladder tumor differentiation"
 
-The impedance data is stored patient-wise in ReducedMeasurement objects which contain both frequency and impedance z.
+The impedance data is stored patient-wise and contain frequency and impedance z.
 """
 
 
